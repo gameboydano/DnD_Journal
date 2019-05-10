@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Characters>
+   <Character Name="Frisky">
+      <Class>Warrior</Class>
+      <Race>Goblin</Race>
+      <Alignment>Chaotic Evil</Alignment>
+      <Strength>18</Strength>
+      <Dexterity>16</Dexterity>
+      <Constitution>12</Constitution>
+      <Intelligence>8</Intelligence>
+      <Wisdom>8</Wisdom>
+      <Charisma>10</Charisma>
+   </Character>
+</Characters>

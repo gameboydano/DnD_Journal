@@ -1,0 +1,10 @@
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.csprojAssemblyReference.cache
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.Form1.resources
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.Properties.Resources.resources
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.csproj.GenerateResource.cache
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\bin\Debug\DND_Journal.exe.config
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\bin\Debug\DND_Journal.exe
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\bin\Debug\DND_Journal.pdb
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.exe
+C:\Users\gameb\source\repos\DND_Journal\DND_Journal\obj\Debug\DND_Journal.pdb
